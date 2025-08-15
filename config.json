@@ -6,7 +6,7 @@
   "enable_ligature": true,
   "ttfautohint_param": {},
   "feature_freeze": {
-    "cv01": "enable",
+    "cv01": "ignore",
     "cv02": "ignore",
     "cv03": "ignore",
     "cv04": "ignore",
